@@ -1,9 +1,17 @@
-.title{
-	color: red
+h2 {
+	color: red;
 }
-.subtitle{
-	color: blue
+
+.subtitle {
+	color: blue;
 }
-#footer{
-	color: green
+
+#services {
+	color: green;
+} 
+
+#spec{
+	font-family: "Times New Roman", Times, serif;
+	font-weight: bold;
+	color: green;
 }
