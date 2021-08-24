@@ -1,0 +1,78 @@
+
+Boiler plate of HTML
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+
+</body>
+</html>
+
+headings are listed from h1 to h6
+
+<p>-paragraph tag
+<img src="" height="px" width="px" alt="if no img is loaded then the stmt is printed">-image tag
+</br>-line break
+<b>-bold
+<strong>-bold
+<big>-bigger text
+<small>-smaller text
+<hr width="70%">-horizontal line
+<a href="">-redirect to a link
+
+two types of lists
+ordered lists
+<ol>
+   <li>-list items</li>
+   <li>-list items</li>
+</ol>
+unordered lists
+<ul>
+   <li>-list items</li>
+   <li>-list items</li>
+</ul>
+
+<div> division tags-to divide the page 
+
+<form action="script.php" method=POST/GET>-for creating forms
+<label for="name">FirstName:</label>
+<input type="text" name="" placeholder="">
+For radio button there must be same name
+<input type="radio" name="" value="choice 1">
+<input type="radio" name="" value="choice 2">
+
+<input type="email" name="" placeholder="">
+<input type="password" name="" placeholder="">
+
+<select name="Month">-for selection
+<option value="0" selected disabled></option>-for default value display
+<option value="Jan">January</option>
+<option value="Feb">February</option>
+
+<input type="checkbox"></input>
+<button type="Submit">Submit</button>
+
+Table in html
+<table>-for table tag
+<thead>-for table heading
+<tr>-table rows
+<td>-table data
+
+STructure of table
+<table>
+<thead>
+<th>
+<th>
+</thead>
+
+<tr>
+<td>
+<td>
+</tr>
+
+</table>

@@ -1,0 +1,40 @@
+Cascading style sheets
+developed and maintained world wide web consortium
+
+Basic syntax
+selector{
+prop1:value1;
+prop2:value2;
+}
+
+include css to html
+<link rel="stylesheet" type="tex/css" href="style.css">
+
+inline css
+<tag style="property:value"></tag>
+
+internal css
+<style>
+selector{
+prop:value;
+}
+</style>
+
+CSS boxmodel
+margin
+------
+border
+------
+padding
+--------
+content
+-------
+CSS units
+pixel-px
+points-72points=1inch
+relative units--1em=current font size ; 100%-relative unit
+
+.for class
+#for id
+
+
